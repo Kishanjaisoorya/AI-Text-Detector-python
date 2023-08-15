@@ -21,7 +21,7 @@ Please note that this approach provides a basic starting point for detecting AI-
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/
+  https://github.com/Kishanjaisoorya/AI-Text-Detector-python.git
 
 ## Install the required libraries
 
